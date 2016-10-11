@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5289fa6e-38d1-3445-9722-4092cd897630",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "5289fa6e-38d1-3445-9722-4092cd897630" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5289fa6e-38d1-3445-9722-4092cd897630" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "31C96028-E884-48D4-B0AD-F3C200539675",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5289fa6e-38d1-3445-9722-4092cd897630" : "chencheng\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AdCircle",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AdCircle\/AdCircle.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.1.111\/svn\/chencheng",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5289fa6e-38d1-3445-9722-4092cd897630"
+    }
+  ]
+}
